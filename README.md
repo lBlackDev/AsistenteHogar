@@ -1,4 +1,3 @@
-Aquí tienes el contenido en formato Markdown:
 
 ---
 
