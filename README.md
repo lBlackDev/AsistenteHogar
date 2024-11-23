@@ -1,4 +1,5 @@
 🌟 Control Inteligente de Luces LED con IoT 🌟
+
 ¿Te imaginas controlar las luces de tu hogar con tan solo un comando de voz o desde tu smartphone? Este proyecto convierte esa idea en realidad, 
 combinando la potencia del ESP-WROOM-32 con la plataforma Arduino Cloud y Google Assistant para crear un sistema eficiente, cómodo y totalmente personalizable.
 
