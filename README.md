@@ -1,4 +1,5 @@
  🌟 Control Inteligente de Dispositivos con IoT 🌟
+ 
 ¿Te imaginas poder controlar cualquier dispositivo eléctrico de tu hogar desde tu teléfono móvil,
 sin importar dónde te encuentres? Este proyecto, desarrollado por Rolando Aldana y Luis Alvarado bajo la guía 
 del profesor Ignacio Andrés Pérez Vergara en la asignatura de IoT del Instituto Santo Tomas,
