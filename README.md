@@ -1,6 +1,7 @@
  🌟 Control Inteligente de Dispositivos con IoT 🌟
 
 Integrantes: Rolando Aldana, Luis Alvarado
+
 Profesor Guía: Ignacio Andrés Pérez Vergara
  
 ¿Te imaginas poder controlar cualquier dispositivo eléctrico de tu hogar desde tu teléfono móvil,
